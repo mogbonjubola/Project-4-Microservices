@@ -1,4 +1,4 @@
-(.devops) ubuntu@ip-172-31-11-84:~/project-ml-microservice-kubernetes$ ./run_kubernetes.sh
+(.devops) ubuntu@ip-172-31-7-212:~/project-ml-microservice-kubernetes$ ./run_kubernetes.sh
 Error from server (AlreadyExists): pods "microservices" already exists
 NAME           READY   STATUS    RESTARTS   AGE
 microservices   1/1     Running   0          112s
