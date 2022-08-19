@@ -1,4 +1,5 @@
-https://github.com/mogbonjubola/Project-4-Microservices/actions/workflows/config.yml/badge.svg
+[![mogbonjubola](https://circleci.com/gh/mogbonjubola/Project-4-Microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/mogbonjubola/Project-4-Microservices)
+
 
 ## Project Overview
 
